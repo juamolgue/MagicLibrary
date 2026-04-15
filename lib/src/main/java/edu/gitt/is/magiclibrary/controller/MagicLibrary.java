@@ -36,7 +36,7 @@ public class MagicLibrary {
 	 * @param args Actualmente el programa no analiza los par�metros de entrada al main
 	 */
 	// Comentario de prueba
-	//Hacemos otra nueva prueba de un merge en otra rama estoy en main
+	//Hacemos otra nueva prueba de un merge en otra rama estoy en main y sigo aqui
 	public static void main(String[] args) {
 		
 		log.info("Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
